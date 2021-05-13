@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\admin\Desktop\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\admin\Desktop\LMS\LMS\obj\x86\Debug\LMS.Form1.resources
+C:\Users\admin\Desktop\LMS\LMS\obj\x86\Debug\LMS.Properties.Resources.resources
+C:\Users\admin\Desktop\LMS\LMS\obj\x86\Debug\LMS.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\LMS\LMS\obj\x86\Debug\LMS.exe
+C:\Users\admin\Desktop\LMS\LMS\obj\x86\Debug\LMS.pdb
+C:\Users\admin\Desktop\LMS\LMS\obj\x86\Debug\LMS.AdminLogin.resources
+C:\Users\admin\Desktop\LMS\LMS\obj\x86\Debug\LMS.SignUp.resources
+C:\Users\admin\Desktop\LMS\LMS\obj\x86\Debug\LMS.LibrarianLogin.resources
